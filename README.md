@@ -1,4 +1,8 @@
 # SHIPIT #
-## Tú vendes, nosotros hacemos el resto. ##
-
+## Landing Page ##
+>
+* #### Diseño y desarrollo propio. ####
+* #### Diseño responsivo. ####
+* #### Framework: Boostrap 4. ####
+>
 > Proyecto personal.
